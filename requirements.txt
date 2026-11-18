@@ -1,0 +1,11 @@
+torch
+diffusers
+segmentation-models-pytorch
+pytorch-lightning
+albumentations
+opencv-python
+scikit-image
+numpy
+matplotlib
+Pillow
+tqdm
